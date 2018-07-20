@@ -1,0 +1,112 @@
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\bin\Debug\NawafizApp.Common.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\bin\Debug\NawafizApp.Common.pdb
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\bin\Debug\es\NawafizApp.Common.resources.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\bin\Debug\ar\NawafizApp.Common.resources.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\bin\Debug\Common.Logging.Core.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\bin\Debug\Common.Logging.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\bin\Debug\GoogleMaps.LocationServices.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\bin\Debug\Newtonsoft.Json.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\bin\Debug\Quartz.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\bin\Debug\Common.Logging.pdb
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\bin\Debug\Common.Logging.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\bin\Debug\Common.Logging.Core.pdb
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\bin\Debug\Common.Logging.Core.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\bin\Debug\Newtonsoft.Json.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\bin\Debug\Quartz.pdb
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\bin\Debug\Quartz.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\obj\Debug\NawafizApp.Common.csprojResolveAssemblyReference.cache
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\obj\Debug\NawafizApp.Common.Resources.CategoryResource.resources
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\obj\Debug\NawafizApp.Common.Resources.CityAndTown.resources
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\obj\Debug\NawafizApp.Common.Resources.FavoriteResource.resources
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\obj\Debug\NawafizApp.Common.Resources.ClassifyResource.resources
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\obj\Debug\NawafizApp.Common.Resources.STRING.resources
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\obj\Debug\NawafizApp.Common.Resources.CategoryResource.es.resources
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\obj\Debug\NawafizApp.Common.Resources.CategoryResource.ar.resources
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\obj\Debug\NawafizApp.Common.Resources.CityAndTown.es.resources
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\obj\Debug\NawafizApp.Common.Resources.CityAndTown.ar.resources
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\obj\Debug\NawafizApp.Common.Resources.FavoriteResource.ar.resources
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\obj\Debug\NawafizApp.Common.Resources.FavoriteResource.es.resources
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\obj\Debug\NawafizApp.Common.Resources.ClassifyResource.es.resources
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\obj\Debug\NawafizApp.Common.Resources.ClassifyResource.ar.resources
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\obj\Debug\NawafizApp.Common.Resources.STRING.ar.resources
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\obj\Debug\NawafizApp.Common.Resources.STRING.es.resources
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\obj\Debug\NawafizApp.Common.csproj.GenerateResource.Cache
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\obj\Debug\es\NawafizApp.Common.resources.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\obj\Debug\ar\NawafizApp.Common.resources.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\obj\Debug\NawafizApp.Common.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Common\obj\Debug\NawafizApp.Common.pdb
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Common\bin\Debug\NawafizApp.Common.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Common\bin\Debug\NawafizApp.Common.pdb
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Common\bin\Debug\ar\NawafizApp.Common.resources.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Common\bin\Debug\es\NawafizApp.Common.resources.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Common\bin\Debug\Common.Logging.Core.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Common\bin\Debug\Common.Logging.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Common\bin\Debug\GoogleMaps.LocationServices.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Common\bin\Debug\Newtonsoft.Json.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Common\bin\Debug\Quartz.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Common\bin\Debug\Common.Logging.pdb
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Common\bin\Debug\Common.Logging.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Common\bin\Debug\Common.Logging.Core.pdb
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Common\bin\Debug\Common.Logging.Core.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Common\bin\Debug\Newtonsoft.Json.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Common\bin\Debug\Quartz.pdb
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Common\bin\Debug\Quartz.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Common\obj\Debug\NawafizApp.Common.csprojResolveAssemblyReference.cache
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Common\obj\Debug\NawafizApp.Common.Resources.STRING.resources
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Common\obj\Debug\NawafizApp.Common.Resources.STRING.ar.resources
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Common\obj\Debug\NawafizApp.Common.Resources.STRING.es.resources
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Common\obj\Debug\NawafizApp.Common.csproj.GenerateResource.Cache
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Common\obj\Debug\ar\NawafizApp.Common.resources.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Common\obj\Debug\es\NawafizApp.Common.resources.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Common\obj\Debug\NawafizApp.Common.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Common\obj\Debug\NawafizApp.Common.pdb
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Common\bin\Debug\NawafizApp.Common.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Common\bin\Debug\NawafizApp.Common.pdb
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Common\bin\Debug\ar\NawafizApp.Common.resources.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Common\bin\Debug\es\NawafizApp.Common.resources.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Common\bin\Debug\Common.Logging.Core.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Common\bin\Debug\Common.Logging.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Common\bin\Debug\GoogleMaps.LocationServices.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Common\bin\Debug\Quartz.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Common\bin\Debug\Common.Logging.pdb
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Common\bin\Debug\Common.Logging.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Common\bin\Debug\Common.Logging.Core.pdb
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Common\bin\Debug\Common.Logging.Core.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Common\bin\Debug\Quartz.pdb
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Common\bin\Debug\Quartz.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Common\obj\Debug\NawafizApp.Common.Resources.STRING.resources
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Common\obj\Debug\NawafizApp.Common.Resources.STRING.ar.resources
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Common\obj\Debug\NawafizApp.Common.Resources.STRING.es.resources
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Common\obj\Debug\NawafizApp.Common.csproj.GenerateResource.Cache
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Common\obj\Debug\ar\NawafizApp.Common.resources.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Common\obj\Debug\es\NawafizApp.Common.resources.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Common\obj\Debug\NawafizApp.Common.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Common\obj\Debug\NawafizApp.Common.pdb
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Common\bin\Debug\NawafizApp.Common.dll.config
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Common\bin\Debug\NawafizApp.Common.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Common\bin\Debug\NawafizApp.Common.pdb
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Common\bin\Debug\ar\NawafizApp.Common.resources.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Common\bin\Debug\es\NawafizApp.Common.resources.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Common\bin\Debug\Common.Logging.Core.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Common\bin\Debug\Common.Logging.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Common\bin\Debug\GoogleMaps.LocationServices.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Common\bin\Debug\Quartz.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Common\bin\Debug\Common.Logging.pdb
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Common\bin\Debug\Common.Logging.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Common\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Common\bin\Debug\Common.Logging.Core.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Common\bin\Debug\Quartz.pdb
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Common\bin\Debug\Quartz.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Common\obj\Debug\NawafizApp.Common.csprojResolveAssemblyReference.cache
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Common\obj\Debug\NawafizApp.Common.Resources.STRING.resources
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Common\obj\Debug\NawafizApp.Common.Resources.STRING.ar.resources
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Common\obj\Debug\NawafizApp.Common.Resources.STRING.es.resources
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Common\obj\Debug\NawafizApp.Common.csproj.GenerateResource.Cache
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Common\obj\Debug\ar\NawafizApp.Common.resources.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Common\obj\Debug\es\NawafizApp.Common.resources.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Common\obj\Debug\NawafizApp.Common.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Common\obj\Debug\NawafizApp.Common.pdb

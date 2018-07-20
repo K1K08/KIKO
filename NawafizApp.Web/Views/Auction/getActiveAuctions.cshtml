@@ -1,0 +1,41 @@
+﻿@model IEnumerable<NawafizApp.Services.Dtos.ActiveAuctionDto>
+    <style>
+        .dashboard-stat.green-dark {
+    background-color: #0b6129;
+    border-radius : 15px !important;
+}
+       #link :hover {
+           background-color:#000;
+       }
+    </style>
+   <div class="portlet box yellow">
+       <div class="portlet-title">
+           <div class="caption">
+               <i class="fa fa-money"></i>
+               المزادات الفعالة
+           </div>
+       </div>
+       <div class="portlet-body">
+           <div class="row">
+               @foreach (var item in Model)
+               {
+
+
+                   <div id="link" class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                       <a class="dashboard-stat dashboard-stat-v2 green-dark" href="@Url.Action("getAuction",new { id = item.AuId })">
+                           <div class="visual">
+                               <i class="fa fa-bar-chart-o"></i>
+                           </div>
+                           <div class="details">
+                               <div class="number">
+                                   <span data-counter="counterup" data-value="12,5">@item.CurrentBid</span>
+                               </div>
+                               <div class="desc"> العرض الحالي </div>
+                               <div class="desc"> ينتهي @item.ExpireDate</div>
+                           </div>
+                       </a>
+                   </div>
+               }
+           </div>
+           </div>
+</div>

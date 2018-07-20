@@ -1,0 +1,84 @@
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Data\bin\Debug\NawafizApp.Data.dll.config
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Data\bin\Debug\NawafizApp.Data.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Data\bin\Debug\NawafizApp.Data.pdb
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Data\bin\Debug\EntityFramework.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Data\bin\Debug\NawafizApp.Common.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Data\bin\Debug\NawafizApp.Domain.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Data\bin\Debug\GoogleMaps.LocationServices.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Data\bin\Debug\Newtonsoft.Json.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Data\bin\Debug\NawafizApp.Common.pdb
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Data\bin\Debug\NawafizApp.Domain.pdb
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Data\bin\Debug\EntityFramework.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Data\bin\Debug\Newtonsoft.Json.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Data\bin\Debug\ar\NawafizApp.Common.resources.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Data\bin\Debug\es\NawafizApp.Common.resources.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Data\obj\Debug\NawafizApp.Data.csprojResolveAssemblyReference.cache
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Data\obj\Debug\NawafizApp.Data.Migrations.Add_AndroidVersion_table_2_7_2017.resources
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Data\obj\Debug\NawafizApp.Data.Migrations.Add_GuideClassifyDescription_6_7_2017.resources
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Data\obj\Debug\NawafizApp.Data.Migrations.Add_GuideNeighborhood_table_6_7_2017.resources
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Data\obj\Debug\NawafizApp.Data.Migrations.Update_GuideNeighborhood_table_6_7_2017.resources
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Data\obj\Debug\NawafizApp.Data.Migrations.Update_GuideNeighborhood_And_GuideClassify_tables_6_7_2017.resources
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Data\obj\Debug\NawafizApp.Data.Migrations.Convert_Mobile_from_classify_to_Optional_7_7_2017.resources
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Data\obj\Debug\NawafizApp.Data.csproj.GenerateResource.Cache
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Data\obj\Debug\NawafizApp.Data.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Data\obj\Debug\NawafizApp.Data.pdb
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Data\obj\Debug\NawafizApp.Data.csprojResolveAssemblyReference.cache
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Data\obj\Debug\NawafizApp.Data.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Data\obj\Debug\NawafizApp.Data.pdb
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Data\bin\Debug\NawafizApp.Data.dll.config
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Data\bin\Debug\NawafizApp.Data.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Data\bin\Debug\NawafizApp.Data.pdb
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Data\bin\Debug\EntityFramework.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Data\bin\Debug\NawafizApp.Common.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Data\bin\Debug\NawafizApp.Domain.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Data\bin\Debug\NawafizApp.Common.pdb
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Data\bin\Debug\NawafizApp.Domain.pdb
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Data\bin\Debug\EntityFramework.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Data\bin\Debug\ar\NawafizApp.Common.resources.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Data\bin\Debug\es\NawafizApp.Common.resources.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Data\obj\Debug\NawafizApp.Data.Migrations.InitialMigration.resources
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Data\obj\Debug\NawafizApp.Data.csproj.GenerateResource.Cache
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Data\bin\Debug\NawafizApp.Data.dll.config
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Data\bin\Debug\NawafizApp.Data.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Data\bin\Debug\NawafizApp.Data.pdb
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Data\bin\Debug\EntityFramework.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Data\bin\Debug\NawafizApp.Common.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Data\bin\Debug\NawafizApp.Domain.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Data\bin\Debug\NawafizApp.Common.pdb
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Data\bin\Debug\NawafizApp.Domain.pdb
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Data\bin\Debug\EntityFramework.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Data\bin\Debug\ar\NawafizApp.Common.resources.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Data\bin\Debug\es\NawafizApp.Common.resources.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Data\obj\Debug\NawafizApp.Data.csprojResolveAssemblyReference.cache
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Data\obj\Debug\NawafizApp.Data.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Data\obj\Debug\NawafizApp.Data.pdb
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Data\obj\Debug\NawafizApp.Data.Migrations.data2.resources
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Data\obj\Debug\NawafizApp.Data.csproj.GenerateResource.Cache
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Data\obj\Debug\NawafizApp.Data.Migrations.data9.resources
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Data\obj\Debug\NawafizApp.Data.Migrations.data56.resources
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Data\bin\Debug\NawafizApp.Data.dll.config
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Data\bin\Debug\NawafizApp.Data.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Data\bin\Debug\NawafizApp.Data.pdb
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Data\bin\Debug\EntityFramework.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Data\bin\Debug\NawafizApp.Common.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Data\bin\Debug\NawafizApp.Domain.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Data\bin\Debug\NawafizApp.Common.pdb
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Data\bin\Debug\NawafizApp.Domain.pdb
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Data\bin\Debug\EntityFramework.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Data\bin\Debug\ar\NawafizApp.Common.resources.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Data\bin\Debug\es\NawafizApp.Common.resources.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Data\obj\Debug\NawafizApp.Data.csprojResolveAssemblyReference.cache
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Data\obj\Debug\NawafizApp.Data.Migrations.data2.resources
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Data\obj\Debug\NawafizApp.Data.Migrations.data9.resources
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Data\obj\Debug\NawafizApp.Data.Migrations.data56.resources
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Data\obj\Debug\NawafizApp.Data.csproj.GenerateResource.Cache
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Data\obj\Debug\NawafizApp.Data.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Data\obj\Debug\NawafizApp.Data.pdb

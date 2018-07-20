@@ -1,0 +1,44 @@
+﻿@model NawafizApp.Services.Dtos.DecorationDto
+<style>
+    a {
+        text-shadow: none;
+        color: #afab14;
+    }
+</style>
+<div class="portlet box yellow">
+    <div class="portlet-title">
+        <div class="caption">
+            <i class="fa fa-diamond"></i>الديكورات
+        </div>
+    </div>
+    <div class="portlet-body">
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-horizontal">
+
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class="form-group">
+                    @Html.Label("النمط", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-3">
+                        @Html.EditorFor(model => model.type, new { htmlAttributes = new { @class = "form-control", autocomplete = "off" } })
+                        @Html.ValidationMessageFor(model => model.type, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+
+                <div class="form-group">
+                    <div class="col-xs-offset-2 col-md-2 col-xs-9 col-sm-2">
+                        <input type="submit" value="إضافة" class="btn btn-warning" style="width:100%" />
+                    </div>
+                </div>
+            </div>
+        }
+        <div style="margin-top:5%;">
+            @{ Html.RenderAction("getAllDecorations");
+
+            }
+        </div>
+    </div>
+</div>

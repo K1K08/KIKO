@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://ws.auction/" targetNamespace="http://ws.auction/" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="calc" type="tns:calc" />
+  <xs:element name="calcResponse" type="tns:calcResponse" />
+  <xs:element name="hello" type="tns:hello" />
+  <xs:element name="helloResponse" type="tns:helloResponse" />
+  <xs:complexType name="calc">
+    <xs:sequence>
+      <xs:element name="location" type="xs:int" />
+      <xs:element name="floor" type="xs:int" />
+      <xs:element name="decoration" type="xs:int" />
+      <xs:element name="view" type="xs:int" />
+      <xs:element name="direction" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="calcResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="hello">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="name" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="helloResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

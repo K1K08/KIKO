@@ -1,0 +1,189 @@
+﻿@model NawafizApp.Services.Dtos.AddAuctionDto
+    @using NawafizApp.Web.Models
+<div class="container-fluid">
+    @using (Html.BeginForm("addAuction", "Auction", FormMethod.Post, new
+    {
+        @enctype = "multipart/form-data"
+
+    }))
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <h4>إضافة مزاد</h4>
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+
+            <div class="row">
+                <div class="form-group col-md-6">
+                    <label class="control-label col-md-4"> تاريخ البداية </label>
+                    <div class="col-md-8">
+                        <div style="position:relative;margin-bottom:10px">
+                            <input autocomplete="off" name="startDate" id="dd" class="form-control date-picker" data-date-format="dd/mm/yyyy" type="text" value="">
+                            <span id="fup" class="error" style="display:none;color:#ed6b75;position:absolute;bottom:-19px;right:0">تاريخ بداية العرض مطلوب</span>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="form-group col-md-6">
+                    <label class="control-label col-md-4">وقت البداية</label>
+                    <div class="col-md-8">
+                        <div class="input-group">
+
+                            @Html.EditorFor(model => model.strTime, new { htmlAttributes = new { @class = "form-control timepicker timepicker-no-seconds", autocomplete = "off", @id = "starts" } })
+                            <span class="input-group-btn">
+                                <button class="btn default" type="button">
+                                    <i class="fa fa-clock-o"></i>
+                                </button>
+
+                            </span>
+                        </div>
+                        @Html.ValidationMessageFor(model => model.strTime, "", new { @class = "text-danger" })
+                    </div>
+
+                </div>
+            </div>
+            <div class="row">
+
+                <div class="form-group col-md-6">
+                    <label class="control-label col-md-4"> تاريخ النهاية </label>
+                    <div class="col-md-8">
+                        <div style="position:relative;margin-bottom:10px">
+                            <input autocomplete="off" name="endDate" id="dd" class="form-control date-picker" data-date-format="dd/mm/yyyy" type="text" value="">
+                            <span id="fup" class="error" style="display:none;color:#ed6b75;position:absolute;bottom:-19px;right:0">تاريخ بداية العرض مطلوب</span>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="form-group col-md-6">
+                    <label class="control-label col-md-4">وقت النهاية</label>
+                    <div class="col-md-8">
+                        <div class="input-group">
+
+                            @Html.EditorFor(model => model.EndTimeTime, new { htmlAttributes = new { @class = "form-control timepicker timepicker-no-seconds", autocomplete = "off", @id = "starts" } })
+                            <span class="input-group-btn">
+                                <button class="btn default" type="button">
+                                    <i class="fa fa-clock-o"></i>
+                                </button>
+
+                            </span>
+                        </div>
+                        @Html.ValidationMessageFor(model => model.EndTimeTime, "", new { @class = "text-danger" })
+                    </div>
+
+                </div>
+            </div>
+
+
+
+
+
+            <div class="row">
+                
+
+                <div class="form-group col-md-6">
+                    @Html.Label("المساحة", htmlAttributes: new { @class = "control-label col-md-4" })
+                    <div class="col-md-8">
+                        @Html.EditorFor(model => model.size, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.size, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="form-group col-md-6">
+                    @Html.Label("الاتجاه1", htmlAttributes: new { @class = "control-label col-md-4" })
+                    <div class="col-md-8">
+                        @Html.DropDownListFor(model => model.Direction1, SelectsHelper.Directions(null), new { @class = "form-control", id = "list1" })
+                        @Html.ValidationMessageFor(model => model.Direction1, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group col-md-6">
+                    @Html.Label("الاتجاه2", htmlAttributes: new { @class = "control-label col-md-4" })
+                    <div class="col-md-8">
+                        @Html.DropDownListFor(model => model.Direction2, SelectsHelper.Directions(null), new { @class = "form-control", id = "list1" })
+                        @Html.ValidationMessageFor(model => model.Direction2, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="form-group col-md-6">
+                    @Html.Label("الاتجاه3", htmlAttributes: new { @class = "control-label col-md-4" })
+                    <div class="col-md-8">
+                        @Html.DropDownListFor(model => model.Direction3, SelectsHelper.Directions(null), new { @class = "form-control", id = "list1" })
+                        @Html.ValidationMessageFor(model => model.Direction3, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group col-md-6">
+
+                    @Html.Label("الاتجاه4", htmlAttributes: new { @class = "control-label col-md-4" })
+                    <div class="col-md-8">
+                        @Html.DropDownListFor(model => model.Direction4, SelectsHelper.Directions(null), new { @class = "form-control", id = "list1" })
+                        @Html.ValidationMessageFor(model => model.Direction4, "", new { @class = "text-danger" })
+                    </div>
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="form-group col-md-6">
+
+                    @Html.Label("الموقع", htmlAttributes: new { @class = "control-label col-md-4" })
+                    <div class="col-md-8">
+                        @Html.DropDownListFor(model => model.locationId, SelectsHelper.Locations(null), new { @class = "form-control", id = "list1" })
+                        @Html.ValidationMessageFor(model => model.locationId, "", new { @class = "text-danger" })
+                    </div>
+
+                </div>
+
+                <div class="form-group col-md-6">
+
+                    @Html.Label("الإطلالة", htmlAttributes: new { @class = "control-label col-md-4" })
+                    <div class="col-md-8">
+                        @Html.DropDownListFor(model => model.h_ViewId, SelectsHelper.H_Views(null), new { @class = "form-control", id = "list1" })
+                        @Html.ValidationMessageFor(model => model.h_ViewId, "", new { @class = "text-danger" })
+                    </div>
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="form-group col-md-6">
+
+                    @Html.Label("الطابق", htmlAttributes: new { @class = "control-label col-md-4" })
+                    <div class="col-md-8">
+                        @Html.DropDownListFor(model => model.floorId, SelectsHelper.Floors(null), new { @class = "form-control", id = "list1" })
+                        @Html.ValidationMessageFor(model => model.floorId, "", new { @class = "text-danger" })
+                    </div>
+
+                </div>
+
+                <div class="form-group col-md-6">
+
+                    @Html.Label("الديكور", htmlAttributes: new { @class = "control-label col-md-4" })
+                    <div class="col-md-8">
+                        @Html.DropDownListFor(model => model.decorationId, SelectsHelper.Decorations(null), new { @class = "form-control", id = "list1" })
+                        @Html.ValidationMessageFor(model => model.decorationId, "", new { @class = "text-danger" })
+                    </div>
+
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.Label(" الصور", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    <div class="btn btn-default image-preview-input">
+                        <span class="glyphicon glyphicon-folder-open"></span>
+                        <span class="image-preview-input-title">قم بتحديد عدة ملفات</span>
+                        <input type="file" accept="image/png, image/jpeg, image/gif" name="files" id="fileEn" multiple />
+                    </div>
+
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="إضافة" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    }
+</div>
+

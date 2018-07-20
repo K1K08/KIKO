@@ -1,0 +1,52 @@
+﻿<style>
+    .about-header {
+        height: 700px;
+        background-image: url('../../Images/wall22.jpg');
+        background-position: left;
+        margin: 0 -20px;
+        background-repeat: no-repeat ;
+    }
+    .about-header h1 {
+    color: #000;
+    font-size: 55px;
+    font-weight: 600;
+    margin-top: 130px;
+    text-shadow: -1px 1px 0 rgba(0,0,0,.2);
+}
+    .about-header h2 {
+    color: #000;
+    font-size: 22px;
+    font-weight: 400;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+</style>
+
+<div class="container-fluid" >
+    <div class="page-bar">
+        <ul class="page-breadcrumb">
+            <li>
+                <a href="#">مزاد الكتروني</a>
+                <i class="fa fa-circle"></i>
+            </li>
+            <li>
+                <span>صفحة البداية</span>
+            </li>
+        </ul>
+
+    </div>
+<div class="row margin-bottom-40 about-header">
+    <div class="col-md-12">
+        <h1>بكل الحب .. أهلاً</h1>
+        <h2>ثقتكم كل ما نملكه لنستمر</h2>
+        @if (Request.IsAuthenticated)
+        {
+        @*<a href="@Url.Action("getactiveauctions","Auction")"  class="btn btn-danger">Discover</a>*@
+        }
+        @if (!Request.IsAuthenticated)
+        {
+            <a href="@Url.Action("Register","account")" class="btn btn-danger">JOIN US TODAY</a>
+        }
+    </div>
+</div>
+</div>

@@ -1,0 +1,102 @@
+﻿@model IEnumerable<NawafizApp.Services.Dtos.H_ViewDto>
+
+
+@{ Layout = null;}
+<link href="~/Content/jquery-confirm.min.css" rel="stylesheet" />
+<style>
+    td {
+        text-align: center !important;
+    }
+
+    th {
+        text-align: center !important;
+        background-color: #5ca268;
+    }
+
+    .table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th {
+        padding: 3px;
+        line-height: 1.42857;
+        vertical-align: top;
+        border-top: 1px solid #e7ecf1;
+    }
+
+    .table td, .table th {
+        font-size: 12px;
+    }
+
+    .linkDel, .lia {
+        color: #297736 !important;
+    }
+</style>
+<div class="table-responsive">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th> # </th>
+                <th> الاسم </th>
+
+
+
+
+                <th style="text-align:center">إدارة</th>
+
+
+
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @item.Id
+                    </td>
+
+                    <td>
+                        @item.name
+                    </td>
+
+                    <td>
+                        @Html.ActionLink("حذف", "DeleteH_View", new { id = item.Id }, new { @class = "linkDel" }) &nbsp;&nbsp;&nbsp;
+                        @Html.ActionLink("تعديل", "EditH_View", new { id = item.Id }, new { @class = "lia" })
+                    </td>
+
+                </tr>
+
+            }
+        </tbody>
+    </table>
+</div>
+<script src="~/Scripts/jquery-3.1.1.min.js"></script>
+<script src="~/Scripts/jquery-confirm.min.js"></script>
+<script>
+    $('.linkDel').confirm({
+        title: 'تأكيد الحذف !',
+
+        content: 'هل تريد بالتأكيد حذف هذا السطر ؟',
+
+
+        buttons: {
+            نعم: function () {
+                location.href = this.$target.attr('href');
+            },
+            إلغاء: function () {
+
+            }
+
+
+        }
+    });
+    $('a.twitter').confirm({
+        content: "...",
+    });
+    $('a.twitter').confirm({
+        buttons: {
+            نعم: function () {
+                location.href = this.$target.attr('href');
+            }
+        }
+    });
+    $(".jconfirm-content-pane").removeClass("no-scroll");
+</script>

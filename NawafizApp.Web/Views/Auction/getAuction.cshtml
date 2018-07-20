@@ -1,0 +1,253 @@
+﻿@model NawafizApp.Services.Dtos.AuctionDeatailsDto
+@{ int i = 0;}
+<style>
+    #myCarousel {
+        margin-top: -35px !important;
+        margin-right: -9px !important;
+        margin-left: -9px !important;
+    }
+
+    .carousel-indicators li {
+        border: 1px solid #297736;
+    }
+
+    .carousel-indicators .active {
+        margin: 0;
+        width: 12px;
+        height: 12px;
+        background-color: #297736;
+    }
+    #grn {
+        background-color :#3b9417
+    }
+    #here {
+        display:inline
+    }
+</style>
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+        @for (var j=0;j< Model.Images.Count;j++)
+        {
+
+
+        <li data-target="#myCarousel" data-slide-to="@i" class="active"></li>
+            i++;
+        }
+
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+        @{ i = 0;}
+        @foreach (var item in Model.Images)
+        {
+
+            if (i == 0) {
+        <div class="item active">
+            <img src="data:image/png;base64,@Convert.ToBase64String(@item.source, 0, @item.source.Length)" alt="Chicago" style="width:100%;height:320px !important;">
+        </div>
+            }
+            else
+            {
+        <div class="item">
+            <img src="data:image/png;base64,@Convert.ToBase64String(@item.source, 0, @item.source.Length)" alt="Chicago" style="width:100%;height:320px !important;">
+        </div>
+            }
+            i++;
+        }
+
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-5">
+
+            <div class="portlet box yellow">
+                <div class="portlet-title">
+                    <div class="caption">
+                        تفاصيل المنزل
+                    </div>
+                </div>
+                <div class="portlet-body">
+
+
+                    <div>
+
+                        <dl class="dl-horizontal">
+                            <dt>
+                                @Html.DisplayName("الاتجاهات")
+                            </dt>
+
+                            <dd>
+                                @Html.DisplayFor(model => model.Direction1)
+                            </dd>
+
+                            <dt>
+                                @Html.DisplayName("الاتجاهات")
+                            </dt>
+
+                            <dd>
+                                @Html.DisplayFor(model => model.Direction2)
+                            </dd>
+
+                            <dt>
+                                @Html.DisplayName("الاتجاهات")
+                            </dt>
+
+                            <dd>
+                                @Html.DisplayFor(model => model.Direction3)
+                            </dd>
+
+                            <dt>
+                                @Html.DisplayName("الاتجاهات")
+                            </dt>
+
+                            <dd>
+                                @Html.DisplayFor(model => model.Direction4)
+                            </dd>
+
+                            <dt>
+                                @Html.DisplayName("النمط")
+                            </dt>
+
+                            <dd>
+                                @Html.DisplayFor(model => model.Decoration)
+                            </dd>
+
+                            <dt>
+                                @Html.DisplayName("الطابق")
+                            </dt>
+
+                            <dd>
+                                @Html.DisplayFor(model => model.floor)
+                            </dd>
+
+                            <dt>
+                                @Html.DisplayName("الموقع")
+                            </dt>
+
+                            <dd>
+                                @Html.DisplayFor(model => model.location)
+                            </dd>
+
+                            <dt>
+                                @Html.DisplayName("الإطلالة")
+                            </dt>
+
+                            <dd>
+                                @Html.DisplayFor(model => model.hView)
+                            </dd>
+
+                            <dt>
+                                @Html.DisplayName("المساحة")
+                            </dt>
+
+                            <dd>
+                                @Html.DisplayFor(model => model.size)
+                            </dd>
+
+                        </dl>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-2">
+            @if (ViewBag.check)
+            {
+            <div class="hide">
+                @Ajax.ActionLink("jjj", "getCurrent", "Auction", new { id = Model.auId }, new AjaxOptions
+           {
+               UpdateTargetId = "here",
+               HttpMethod = "get",
+               InsertionMode = InsertionMode.Replace,
+
+
+
+           }, new { id = "uhuhuh" })
+            </div>
+            }
+        </div>
+        <div class="col-md-5">
+            <div class="portlet box dark">
+                <div id="grn" class="portlet-title">
+                    <div class="caption">المزايدة</div>
+                </div>
+                <div class="portlet-body">
+               @if (ViewBag.check)
+               {
+                    <div>
+                        <span class="fa fa-circle" style="color:green;"></span>  العرض الحالي 
+                        :
+                      <div id="here"></div>
+                    </div>
+                    <div>
+                        @using (Ajax.BeginForm("Bid", new { auId = Model.auId }, new AjaxOptions
+                        {
+                            HttpMethod = "get",
+                            InsertionMode = InsertionMode.Replace,
+                            UpdateTargetId = "here2",
+                            LoadingElementId = "load",
+                            OnSuccess = "fun()"
+
+
+                        }))
+                        {
+                            <input type="number" id="num" name="val" autocomplete="off" />
+                            <input type="submit" value="BID" class="btn btn-default" />
+
+                        }
+
+                        <div id="here2"></div>
+                        <div id="load" hidden="hidden"> جار الإدخال ...</div>
+                    </div>
+               }
+               else
+               {
+                <div>
+                    <span class="fa fa-circle" style="color:green;"></span>  رسا المزاد على 
+                    :
+                    <div id="here">@ViewBag.b من قبل @ViewBag.w</div>
+                </div>
+               }
+                </div>
+            </div> 
+        </div>
+    </div>
+</div>
+
+<script src="~/Scripts/jquery-3.1.1.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+<script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+
+
+<script >
+   
+
+
+        setInterval(function () {
+            document.getElementById("uhuhuh").click();
+          //  $("#uhuhuh").click();
+        }, 2000);
+   
+        function fun() {
+            setTimeout(
+                function () {
+                    var x = document.getElementById("here2");
+                    x.innerHTML = "";
+                    $("#num").val("");
+                },
+             3000  );
+        }
+</script>

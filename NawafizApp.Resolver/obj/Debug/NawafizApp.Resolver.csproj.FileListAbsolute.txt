@@ -1,0 +1,119 @@
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Resolver\bin\Debug\NawafizApp.Resolver.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Resolver\bin\Debug\NawafizApp.Resolver.pdb
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.Mvc.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Resolver\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Resolver\bin\Debug\System.Web.Helpers.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Resolver\bin\Debug\System.Web.Mvc.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Resolver\bin\Debug\System.Web.Razor.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Resolver\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Resolver\bin\Debug\System.Web.WebPages.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Resolver\bin\Debug\System.Web.WebPages.Razor.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Resolver\bin\Debug\WebActivatorEx.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.Mvc.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Resolver\bin\Debug\System.Web.Helpers.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Resolver\bin\Debug\System.Web.Mvc.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Resolver\bin\Debug\System.Web.Razor.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Resolver\bin\Debug\System.Web.WebPages.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Resolver\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Resolver\bin\Debug\System.Web.WebPages.Razor.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Resolver\obj\Debug\NawafizApp.Resolver.csprojResolveAssemblyReference.cache
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Resolver\obj\Debug\NawafizApp.Resolver.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Resolver\obj\Debug\NawafizApp.Resolver.pdb
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Resolver\bin\Debug\NawafizApp.Resolver.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Resolver\bin\Debug\NawafizApp.Resolver.pdb
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.Mvc.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Resolver\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Resolver\bin\Debug\System.Web.Helpers.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Resolver\bin\Debug\System.Web.Mvc.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Resolver\bin\Debug\System.Web.Razor.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Resolver\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Resolver\bin\Debug\System.Web.WebPages.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Resolver\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Resolver\bin\Debug\WebActivatorEx.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.Mvc.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Resolver\bin\Debug\System.Web.Helpers.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Resolver\bin\Debug\System.Web.Mvc.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Resolver\bin\Debug\System.Web.Razor.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Resolver\bin\Debug\System.Web.WebPages.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Resolver\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Resolver\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Resolver\obj\Debug\NawafizApp.Resolver.csprojResolveAssemblyReference.cache
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Resolver\obj\Debug\NawafizApp.Resolver.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Resolver\obj\Debug\NawafizApp.Resolver.pdb
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\NawafizApp.Resolver.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\NawafizApp.Resolver.pdb
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\System.Web.Helpers.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\System.Web.Mvc.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\System.Web.Razor.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\System.Web.WebPages.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\WebActivatorEx.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\System.Web.Helpers.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\System.Web.Mvc.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\System.Web.Razor.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\System.Web.WebPages.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Resolver\obj\Debug\NawafizApp.Resolver.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Resolver\obj\Debug\NawafizApp.Resolver.pdb
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\NawafizApp.Resolver.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\NawafizApp.Resolver.pdb
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\System.Web.Helpers.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\System.Web.Mvc.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\System.Web.Razor.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\System.Web.WebPages.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\WebActivatorEx.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\System.Web.Helpers.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\System.Web.Mvc.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\System.Web.Razor.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\System.Web.WebPages.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Resolver\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Resolver\obj\Debug\NawafizApp.Resolver.csprojResolveAssemblyReference.cache
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Resolver\obj\Debug\NawafizApp.Resolver.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Resolver\obj\Debug\NawafizApp.Resolver.pdb

@@ -1,0 +1,59 @@
+﻿@model NawafizApp.Services.Dtos.RegisterUserDto
+@{
+    ViewBag.Title = "Register";
+}
+
+<div class="container-fluid">
+
+@using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+    <h2><span class="fa fa-user"></span> إنشاء حساب جديد</h2>
+    <hr />
+  
+    <div class="form-group">
+       @Html.Label("اسم المستخدم", new { @class = "col-md-2 control-label" })
+      
+        <div class="col-md-6">
+            @Html.TextBoxFor(m => m.UserName, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m=>m.UserName, "", new { @class = "text-danger" })
+            
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.Label("الاسم الكامل", new { @class = "col-md-2 control-label" })
+        <div class="col-md-6">
+            @Html.TextBoxFor(m => m.FullName, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.FullName, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group">
+      @Html.Label("كلمة المرور", new { @class = "col-md-2 control-label" })
+        <div class="col-md-6">
+            @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group">
+     @Html.Label("تأكيد كلمة المرور", new { @class = "col-md-2 control-label" })
+        <div class="col-md-6">
+            @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.ConfirmPassword, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.Label("الهاتف", new { @class = "col-md-2 control-label" })
+        <div class="col-md-6">
+            @Html.TextBoxFor(m => m.phoneNum, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.phoneNum, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" class="btn btn-warning" value="التسجيل" />
+        </div>
+    </div>
+}
+    </div>
+
+

@@ -1,0 +1,91 @@
+﻿@model IEnumerable<NawafizApp.Services.Dtos.AuctionDeatailsDto>
+
+<style>
+    td {
+        text-align: center !important;
+    }
+
+    th {
+        text-align: center !important;
+        background-color: #5ca268;
+    }
+
+    .table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th {
+        padding: 3px;
+        line-height: 1.42857;
+        vertical-align: top;
+        border-top: 1px solid #e7ecf1;
+    }
+
+    .table td, .table th {
+        font-size: 12px;
+    }
+
+    .linkDel, .lia {
+        color: #297736 !important;
+    }
+</style>
+<div class="portlet box yellow">
+    <div class="portlet-title">
+        <div class="caption">
+            <i class="fa fa-location-arrow"></i>المزادات الخاصة بي 
+        </div>
+    </div>
+    <div class="portlet-body">
+        <div class="table-responsive">
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th> # </th>
+                        <th> صاحب المزاد </th>
+                        <th> قيمة العرض </th>
+                        <th> الرابح </th>
+                        <th> هاتف الرابح </th>
+                        <th> بدء </th>
+                        <th> انتهاء </th>
+
+
+
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @{ int i = 1;}
+                    @foreach (var item in Model)
+            {
+            <tr>
+                <td>
+                    @i
+                </td>
+
+                <td>
+                    @item.Owner
+                </td>
+                <td>
+                    @item.PayVal
+                    </td>
+                    <td>
+                        @item.Winner
+                    </td>
+                    <td>
+                        @item.winnerPhone
+                    </td>
+                    <td>
+                        @item.startDate
+                    </td>
+                    <td>
+                        @item.endtDate
+                    </td>
+
+                <td>
+                    <a href="@Url.Action("getauction",new { id = item.auId })">تفاصيل</a>
+                </td>
+
+                </tr>
+                i++;
+            }
+                </tbody>
+            </table>
+        </div>
+        </div>
+</div>

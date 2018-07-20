@@ -1,0 +1,290 @@
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\NawafizApp.Services.dll.config
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\NawafizApp.Services.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\NawafizApp.Services.pdb
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\NawafizApp.Services.XML
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\AutoMapper.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Common.Logging.Core.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Common.Logging.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\FluentValidation.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\GoogleMaps.LocationServices.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Microsoft.Owin.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Microsoft.Owin.Security.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\NawafizApp.Common.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\NawafizApp.Data.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\NawafizApp.Domain.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\NawafizApp.Resolver.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Newtonsoft.Json.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Owin.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\PagedList.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\PagedList.Mvc.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Quartz.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\System.Net.Http.Formatting.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\System.Web.Http.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\System.Web.Http.WebHost.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\EntityFramework.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Microsoft.Practices.Unity.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Microsoft.Practices.Unity.Mvc.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\System.Web.Mvc.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\System.Web.WebPages.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\System.Web.Razor.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\System.Web.WebPages.Razor.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\NawafizApp.Common.pdb
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\NawafizApp.Data.pdb
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\NawafizApp.Domain.pdb
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\NawafizApp.Resolver.pdb
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\AutoMapper.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Common.Logging.pdb
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Common.Logging.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Common.Logging.Core.pdb
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Common.Logging.Core.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\FluentValidation.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Microsoft.Owin.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Microsoft.Owin.Security.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Newtonsoft.Json.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\PagedList.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\PagedList.Mvc.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Quartz.pdb
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Quartz.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\System.Net.Http.Formatting.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\System.Web.Http.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\System.Web.Http.WebHost.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\EntityFramework.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Microsoft.Practices.Unity.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Microsoft.Practices.Unity.Mvc.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\System.Web.Mvc.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\System.Web.WebPages.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\System.Web.Razor.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\System.Web.WebPages.Razor.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\ar\NawafizApp.Common.resources.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\bin\Debug\es\NawafizApp.Common.resources.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\obj\Debug\NawafizApp.Services.csprojResolveAssemblyReference.cache
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\obj\Debug\NawafizApp.Services.dll
+E:\nawafiz_30_6_2018\nawafizApp3\NawafizApp.Services\obj\Debug\NawafizApp.Services.pdb
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\NawafizApp.Services.dll.config
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\NawafizApp.Services.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\NawafizApp.Services.pdb
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\NawafizApp.Services.XML
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\AutoMapper.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Common.Logging.Core.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Common.Logging.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\FluentValidation.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\GoogleMaps.LocationServices.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Microsoft.Owin.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Microsoft.Owin.Security.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\NawafizApp.Common.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\NawafizApp.Data.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\NawafizApp.Domain.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\NawafizApp.Resolver.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Newtonsoft.Json.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Owin.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\PagedList.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\PagedList.Mvc.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Quartz.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\System.Net.Http.Formatting.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\System.Web.Http.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\System.Web.Http.WebHost.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\EntityFramework.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Microsoft.Practices.Unity.Mvc.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\NawafizApp.Common.pdb
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\NawafizApp.Data.pdb
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\NawafizApp.Domain.pdb
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\NawafizApp.Resolver.pdb
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\AutoMapper.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Common.Logging.pdb
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Common.Logging.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Common.Logging.Core.pdb
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Common.Logging.Core.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\FluentValidation.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Microsoft.Owin.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Microsoft.Owin.Security.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Newtonsoft.Json.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\PagedList.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\PagedList.Mvc.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Quartz.pdb
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Quartz.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\System.Net.Http.Formatting.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\System.Web.Http.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\System.Web.Http.WebHost.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\EntityFramework.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Microsoft.Practices.Unity.Mvc.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\ar\NawafizApp.Common.resources.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\bin\Debug\es\NawafizApp.Common.resources.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\obj\Debug\NawafizApp.Services.csprojResolveAssemblyReference.cache
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\obj\Debug\NawafizApp.Services.dll
+D:\Softech Designs\Nawafiz\Dona Roza 30-07-2017\NawafizApp.Services\obj\Debug\NawafizApp.Services.pdb
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\NawafizApp.Services.dll.config
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\NawafizApp.Services.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\NawafizApp.Services.pdb
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\NawafizApp.Services.XML
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\AutoMapper.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Common.Logging.Core.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Common.Logging.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\FluentValidation.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\GoogleMaps.LocationServices.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Owin.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\NawafizApp.Common.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\NawafizApp.Data.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\NawafizApp.Domain.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\NawafizApp.Resolver.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Owin.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\PagedList.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\PagedList.Mvc.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Quartz.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\System.Web.Http.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\EntityFramework.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\System.Web.Mvc.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\System.Web.WebPages.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\System.Web.Razor.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\NawafizApp.Common.pdb
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\NawafizApp.Data.pdb
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\NawafizApp.Domain.pdb
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\NawafizApp.Resolver.pdb
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\AutoMapper.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Common.Logging.pdb
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Common.Logging.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Common.Logging.Core.pdb
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Common.Logging.Core.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\FluentValidation.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Owin.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\PagedList.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\PagedList.Mvc.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Quartz.pdb
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Quartz.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\System.Web.Http.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\EntityFramework.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\System.Web.Mvc.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\System.Web.WebPages.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\System.Web.Razor.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\ar\NawafizApp.Common.resources.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\bin\Debug\es\NawafizApp.Common.resources.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\obj\Debug\NawafizApp.Services.csprojResolveAssemblyReference.cache
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\obj\Debug\NawafizApp.Services.dll
+C:\Users\mohamed\Desktop\KIKO\NawafizApp.Services\obj\Debug\NawafizApp.Services.pdb
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\NawafizApp.Services.dll.config
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\NawafizApp.Services.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\NawafizApp.Services.pdb
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\NawafizApp.Services.XML
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\AutoMapper.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Common.Logging.Core.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Common.Logging.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\FluentValidation.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\GoogleMaps.LocationServices.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Owin.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\NawafizApp.Common.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\NawafizApp.Data.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\NawafizApp.Domain.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\NawafizApp.Resolver.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Owin.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\PagedList.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\PagedList.Mvc.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Quartz.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\System.Web.Http.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\EntityFramework.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\NawafizApp.Common.pdb
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\NawafizApp.Data.pdb
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\NawafizApp.Domain.pdb
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\NawafizApp.Resolver.pdb
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\AutoMapper.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Common.Logging.pdb
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Common.Logging.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Common.Logging.Core.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\FluentValidation.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Owin.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\PagedList.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\PagedList.Mvc.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Quartz.pdb
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Quartz.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\System.Web.Http.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\EntityFramework.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\ar\NawafizApp.Common.resources.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\bin\Debug\es\NawafizApp.Common.resources.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\obj\Debug\NawafizApp.Services.csprojResolveAssemblyReference.cache
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\obj\Debug\NawafizApp.Services.dll
+C:\Users\Techno.Home\Desktop\KIKO\NawafizApp.Services\obj\Debug\NawafizApp.Services.pdb
